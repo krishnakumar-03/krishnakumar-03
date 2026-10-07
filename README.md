@@ -28,7 +28,7 @@ class DataScientist:
         self.location   = "Tempe, AZ 🌵"
         self.core_stack = ["Python", "SQL", "R", "PySpark", "AWS"]
         self.focus_area = ["Machine Learning Systems", "Explainable AI (XAI)", "ETL & Big Data"]
-        self.seeking    = "Summer 2026 Data Science / ML / Data Engineering Internships"
+        self.seeking    = "Data Science / ML / Data Engineering Full-time Job Opportunities"
 
     def mission(self):
         return "Building scalable machine learning systems and reliable data-driven platforms."
