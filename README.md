@@ -3,7 +3,7 @@
 
 # Hi there, I'm Krishnakumar Ramakrishnan 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFC627&background=8C1D4000&center=true&vCenter=true&width=600&lines=MS+Data+Science+%40+Arizona+State+University;Machine+Learning+%26+Data+Engineering;Seeking+Summer+2026+Internships;Published+IEEE+Researcher" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFC627&background=8C1D4000&center=true&vCenter=true&width=600&lines=MS+Data+Science+%40+Arizona+State+University;Machine+Learning+%26+Data+Engineering;Seeking+Full-time+Data+Engineer+Job+Roles;Published+IEEE+Researcher" alt="Typing SVG" />
 
 **Tempe, Arizona, United States**
 
